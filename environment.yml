@@ -1,0 +1,16 @@
+name: ps1_ex4_titanic
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - wordcloud
+  - seaborn
+  - pandas
+  - pathlib
+  - ipython
+  - numpy
+  - jupyter
+  - scikit-learn
+  - matplotlib
+prefix: /Users/lsahar/miniconda3/envs/ps1_ex4_titanic
